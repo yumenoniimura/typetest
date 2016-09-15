@@ -68,3 +68,8 @@ h5 {
     line-height: 34px;
     font-weight:300;
 }
+@media (max-width: 640px) {
+  h5 {
+    font-size: 1em;
+  }
+}
